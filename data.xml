@@ -1,0 +1,198 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="main.xsl"?>
+<!DOCTYPE rows SYSTEM "main.dtd">
+<rows xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="main.xsd">
+
+  <row>
+    <municipio>Municipio I (ex Mun I)</municipio>
+    <tipologia>Albergo</tipologia>
+    <classificazione>3 Stelle</classificazione>
+    <denominazione>ASCOT</denominazione>
+    <indirizzo>VIA MONTEBELLO, 22</indirizzo>
+    <singole>5</singole>
+    <doppie>6</doppie>
+    <triple>7</triple>
+    <quadruple>3</quadruple>
+    <quintuple>0</quintuple>
+    <sestuple>0</sestuple>
+    <totale_camere>21</totale_camere>
+    <posti_letto>50</posti_letto>
+  </row>
+
+  <row>
+    <municipio>Municipio I (ex Mun I)</municipio>
+    <tipologia>Albergo</tipologia>
+    <classificazione>2 Stelle</classificazione>
+    <denominazione>ALLO STATUTO</denominazione>
+    <indirizzo>VIA DELLO STATUTO, 32</indirizzo>
+    <singole>3</singole>
+    <doppie>1</doppie>
+    <triple>0</triple>
+    <quadruple>0</quadruple>
+    <quintuple>0</quintuple>
+    <sestuple>0</sestuple>
+    <totale_camere>4</totale_camere>
+    <posti_letto>5</posti_letto>
+  </row>
+
+  <row>
+    <municipio>Municipio I (ex Mun I)</municipio>
+    <tipologia>Albergo</tipologia>
+    <classificazione>4 Stelle</classificazione>
+    <denominazione>BEAUTIFUL 2</denominazione>
+    <indirizzo>VIA MILAZZO, 14</indirizzo>
+    <singole>3</singole>
+    <doppie>5</doppie>
+    <triple>4</triple>
+    <quadruple>0</quadruple>
+    <quintuple>0</quintuple>
+    <sestuple>0</sestuple>
+    <totale_camere>12</totale_camere>
+    <posti_letto>25</posti_letto>
+  </row>
+
+  <row>
+    <municipio>Municipio I (ex Mun I)</municipio>
+    <tipologia>Albergo</tipologia>
+    <classificazione>1 Stella</classificazione>
+    <denominazione>BEAUTY</denominazione>
+    <indirizzo>VIA NAPOLEONE III, 35</indirizzo>
+    <singole>3</singole>
+    <doppie>5</doppie>
+    <triple>0</triple>
+    <quadruple>0</quadruple>
+    <quintuple>0</quintuple>
+    <sestuple>0</sestuple>
+    <totale_camere>8</totale_camere>
+    <posti_letto>13</posti_letto>
+  </row>
+
+  <row>
+    <municipio>Municipio I (ex Mun I)</municipio>
+    <tipologia>Albergo</tipologia>
+    <classificazione>2 Stelle</classificazione>
+    <denominazione>BED IN ROMA</denominazione>
+    <indirizzo>VIA DEI MILLE, 64</indirizzo>
+    <singole>3</singole>
+    <doppie>4</doppie>
+    <triple>1</triple>
+    <quadruple>0</quadruple>
+    <quintuple>0</quintuple>
+    <sestuple>0</sestuple>
+    <totale_camere>8</totale_camere>
+    <posti_letto>14</posti_letto>
+  </row>
+
+  <row>
+      <municipio>Municipio I (ex Mun I)</municipio>
+      <tipologia>Albergo</tipologia>
+      <classificazione>5 Stelle</classificazione>
+      <denominazione>BIXIO</denominazione>
+      <indirizzo>VIA BIXIO, 46</indirizzo>
+      <singole>0</singole>
+      <doppie>11</doppie>
+      <triple>1</triple>
+      <quadruple>0</quadruple>
+      <quintuple>0</quintuple>
+      <sestuple>0</sestuple>
+      <totale_camere>12</totale_camere>
+      <posti_letto>25</posti_letto>
+  </row>
+
+  <row>
+    <municipio>Municipio I (ex Mun I)</municipio>
+    <tipologia>Albergo</tipologia>
+    <classificazione>3 Stelle</classificazione>
+    <denominazione>BOCCACCIO</denominazione>
+    <indirizzo>VIA DEL BOCCACCIO, 25</indirizzo>
+    <singole>2</singole>
+    <doppie>4</doppie>
+    <triple>2</triple>
+    <quadruple>0</quadruple>
+    <quintuple>0</quintuple>
+    <sestuple>0</sestuple>
+    <totale_camere>8</totale_camere>
+    <posti_letto>16</posti_letto>
+  </row>
+
+  <row>
+    <municipio>Municipio I (ex Mun I)</municipio>
+    <tipologia>Albergo</tipologia>
+    <classificazione>1 Stella</classificazione>
+    <denominazione>CAPRI</denominazione>
+    <indirizzo>VIA MAGENTA, 13</indirizzo>
+    <singole>3</singole>
+    <doppie>4</doppie>
+    <triple>1</triple>
+    <quadruple>0</quadruple>
+    <quintuple>0</quintuple>
+    <sestuple>0</sestuple>
+    <totale_camere>8</totale_camere>
+    <posti_letto>14</posti_letto>
+  </row>
+
+  <row>
+    <municipio>Municipio I (ex Mun I)</municipio>
+    <tipologia>Albergo</tipologia>
+    <classificazione>1 Stella</classificazione>
+    <denominazione>CARAVAGGIO 2</denominazione>
+    <indirizzo>VIA PALERMO, 73</indirizzo>
+    <singole>3</singole>
+    <doppie>4</doppie>
+    <triple>0</triple>
+    <quadruple>0</quadruple>
+    <quintuple>0</quintuple>
+    <sestuple>0</sestuple>
+    <totale_camere>7</totale_camere>
+    <posti_letto>11</posti_letto>
+  </row>
+
+  <row>
+    <municipio>Municipio I (ex Mun I)</municipio>
+    <tipologia>Albergo</tipologia>
+    <classificazione>4 Stelle</classificazione>
+    <denominazione>CARLO ALBERTO</denominazione>
+    <indirizzo>VIA CARLO ALBERTO, 43</indirizzo>
+    <singole>8</singole>
+    <doppie>3</doppie>
+    <triple>0</triple>
+    <quadruple>0</quadruple>
+    <quintuple>0</quintuple>
+    <sestuple>0</sestuple>
+    <totale_camere>11</totale_camere>
+    <posti_letto>14</posti_letto>
+  </row>
+
+  <row>
+    <municipio>Municipio I (ex Mun I)</municipio>
+    <tipologia>Albergo</tipologia>
+    <classificazione>2 Stelle</classificazione>
+    <denominazione>CARMEL</denominazione>
+    <indirizzo>VIA GOFFREDO MAMELI, 11</indirizzo>
+    <singole>5</singole>
+    <doppie>3</doppie>
+    <triple>3</triple>
+    <quadruple>0</quadruple>
+    <quintuple>0</quintuple>
+    <sestuple>0</sestuple>
+    <totale_camere>11</totale_camere>
+    <posti_letto>20</posti_letto>
+  </row>
+
+  <row>
+    <municipio>Municipio I (ex Mun I)</municipio>
+    <tipologia>Albergo</tipologia>
+    <classificazione>3 Stelle</classificazione>
+    <denominazione>CENTRAL LODGE</denominazione>
+    <indirizzo>VIA BUONARROTI, 19</indirizzo>
+    <singole>0</singole>
+    <doppie>8</doppie>
+    <triple>10</triple>
+    <quadruple>0</quadruple>
+    <quintuple>0</quintuple>
+    <sestuple>0</sestuple>
+    <totale_camere>18</totale_camere>
+    <posti_letto>46</posti_letto>
+  </row>
+
+</rows>

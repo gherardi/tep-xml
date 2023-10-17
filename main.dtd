@@ -1,0 +1,15 @@
+<!ELEMENT rows (row+)>
+<!ELEMENT row (municipio, tipologia, classificazione, denominazione, indirizzo, singole, doppie, triple, quadruple, quintuple, sestuple, totale_camere, posti_letto)>
+<!ELEMENT municipio (#PCDATA)>
+<!ELEMENT tipologia (#PCDATA)>
+<!ELEMENT classificazione (#PCDATA)>
+<!ELEMENT denominazione (#PCDATA)>
+<!ELEMENT indirizzo (#PCDATA)>
+<!ELEMENT singole (#PCDATA)>
+<!ELEMENT doppie (#PCDATA)>
+<!ELEMENT triple (#PCDATA)>
+<!ELEMENT quadruple (#PCDATA)>
+<!ELEMENT quintuple (#PCDATA)>
+<!ELEMENT sestuple (#PCDATA)>
+<!ELEMENT totale_camere (#PCDATA)>
+<!ELEMENT posti_letto (#PCDATA)>
