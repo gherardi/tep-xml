@@ -11,10 +11,10 @@
       <body class="h-screen bg-gray-100 text-slate-800">
         <div class="py-16">
           <div class="grid md:grid-cols-2 xl:grid-cols-3 gap-y-10 gap-x-5 w-4/5 mx-auto">
-            
-            <xsl:for-each select="rows/row">
 
-              <div class="bg-white rounded-lg shadow py-8 px-8 hover:shadow-lg transition cursor-pointer">
+            <xsl:for-each select="strutture/struttura">
+
+              <div class="bg-white rounded-lg shadow py-8 px-8 cursor-pointer hover:shadow-lg hover:-translate-y-1 transition">
                 <h1 class="uppercase text-lg font-bold mb-4">
                   <xsl:value-of select="denominazione"/>
                 </h1>
@@ -35,23 +35,23 @@
                 
                 <p class="border-t-4 border-gray-50 pt-4 font-medium">Valutazione: 
                   <xsl:choose>
-                    <xsl:when test="classificazione='1 Stella'">
+                    <xsl:when test="@classificazione='1 Stella'">
                       ⭐
                     </xsl:when>
-                    <xsl:when test="classificazione='2 Stelle'">
+                    <xsl:when test="@classificazione='2 Stelle'">
                       ⭐⭐
                     </xsl:when>
-                    <xsl:when test="classificazione='3 Stelle'">
+                    <xsl:when test="@classificazione='3 Stelle'">
                       ⭐⭐⭐
                     </xsl:when>
-                    <xsl:when test="classificazione='4 Stelle'">
+                    <xsl:when test="@classificazione='4 Stelle'">
                       ⭐⭐⭐⭐
                     </xsl:when>
-                    <xsl:when test="classificazione='5 Stelle'">
+                    <xsl:when test="@classificazione='5 Stelle'">
                       ⭐⭐⭐⭐⭐
                     </xsl:when>
                     <xsl:otherwise>
-                      ⭐-⭐-⭐
+                      non definito
                     </xsl:otherwise>
                   </xsl:choose>
                 </p>

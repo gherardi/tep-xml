@@ -1,15 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema">
 
-  <xs:element name="rows">
+  <xs:element name="strutture">
     <xs:complexType>
       <xs:sequence>
-        <xs:element name="row" maxOccurs="unbounded">
+        <xs:element name="struttura" maxOccurs="unbounded">
           <xs:complexType>
             <xs:sequence>
               <xs:element name="municipio" type="xs:string"/>
               <xs:element name="tipologia" type="xs:string"/>
-              <xs:element name="classificazione" type="xs:string"/>
               <xs:element name="denominazione" type="xs:string"/>
               <xs:element name="indirizzo" type="xs:string"/>
               <xs:element name="singole" type="xs:integer"/>
@@ -21,6 +20,7 @@
               <xs:element name="totale_camere" type="xs:integer"/>
               <xs:element name="posti_letto" type="xs:integer"/>
             </xs:sequence>
+            <xs:attribute name="classificazione" type="xs:string" use="required"/>
           </xs:complexType>
         </xs:element>
       </xs:sequence>

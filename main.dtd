@@ -1,8 +1,9 @@
-<!ELEMENT rows (row+)>
-<!ELEMENT row (municipio, tipologia, classificazione, denominazione, indirizzo, singole, doppie, triple, quadruple, quintuple, sestuple, totale_camere, posti_letto)>
+<!ELEMENT strutture (struttura+)>
+<!ELEMENT struttura (municipio, tipologia, denominazione, indirizzo, singole, doppie, triple, quadruple, quintuple, sestuple, totale_camere, posti_letto)>
+<!ATTLIST struttura classificazione CDATA #REQUIRED>
+
 <!ELEMENT municipio (#PCDATA)>
 <!ELEMENT tipologia (#PCDATA)>
-<!ELEMENT classificazione (#PCDATA)>
 <!ELEMENT denominazione (#PCDATA)>
 <!ELEMENT indirizzo (#PCDATA)>
 <!ELEMENT singole (#PCDATA)>
