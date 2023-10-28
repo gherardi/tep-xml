@@ -16,7 +16,7 @@
     <sestuple>0</sestuple>
     <totale_camere>21</totale_camere>
     <posti_letto>50</posti_letto>
-    <classe nome="5ia">
+    <classe>
       <nome nome="5ia" />
     </classe>
   </struttura>
@@ -52,7 +52,7 @@
     <sestuple>0</sestuple>
     <totale_camere>12</totale_camere>
     <posti_letto>25</posti_letto>
-    <classe nome="5ia">
+    <classe>
       <nome nome="5ia" />
     </classe>
   </struttura>
@@ -70,7 +70,7 @@
     <sestuple>0</sestuple>
     <totale_camere>8</totale_camere>
     <posti_letto>13</posti_letto>
-    <classe nome="5ia">
+    <classe>
       <nome nome="5ia" />
     </classe>
   </struttura>
@@ -88,7 +88,7 @@
     <sestuple>0</sestuple>
     <totale_camere>8</totale_camere>
     <posti_letto>14</posti_letto>
-    <classe nome="5ia">
+    <classe>
       <nome nome="5ia" />
     </classe>
   </struttura>
@@ -106,7 +106,7 @@
       <sestuple>0</sestuple>
       <totale_camere>12</totale_camere>
       <posti_letto>25</posti_letto>
-      <classe nome="5ia">
+      <classe>
       <nome nome="5ia" />
     </classe>
   </struttura>
@@ -124,7 +124,7 @@
     <sestuple>0</sestuple>
     <totale_camere>8</totale_camere>
     <posti_letto>16</posti_letto>
-    <classe nome="5ia">
+    <classe>
       <nome nome="5ia" />
     </classe>
   </struttura>
@@ -142,7 +142,7 @@
     <sestuple>0</sestuple>
     <totale_camere>8</totale_camere>
     <posti_letto>14</posti_letto>
-    <classe nome="5ia">
+    <classe>
       <nome nome="5ia" />
     </classe>
   </struttura>
@@ -160,7 +160,7 @@
     <sestuple>0</sestuple>
     <totale_camere>7</totale_camere>
     <posti_letto>11</posti_letto>
-    <classe nome="5ia">
+    <classe>
       <nome nome="5ia" />
     </classe>
   </struttura>
@@ -178,7 +178,7 @@
     <sestuple>0</sestuple>
     <totale_camere>11</totale_camere>
     <posti_letto>14</posti_letto>
-    <classe nome="5ia">
+    <classe>
       <nome nome="5ia" />
     </classe>
   </struttura>
@@ -196,7 +196,7 @@
     <sestuple>0</sestuple>
     <totale_camere>11</totale_camere>
     <posti_letto>20</posti_letto>
-    <classe nome="5ia">
+    <classe>
       <nome nome="5ia" />
     </classe>
   </struttura>
@@ -214,7 +214,7 @@
     <sestuple>0</sestuple>
     <totale_camere>18</totale_camere>
     <posti_letto>46</posti_letto>
-    <classe nome="5ia">
+    <classe>
       <nome nome="5ia" />
     </classe>
   </struttura>
