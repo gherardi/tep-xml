@@ -14,7 +14,7 @@
 
             <xsl:for-each select="strutture/struttura">
 
-              <div class="bg-white rounded-lg shadow py-8 px-8 cursor-pointer hover:shadow-lg hover:-translate-y-1 transition">
+              <div class="relative bg-white rounded-lg shadow py-8 px-8 cursor-pointer hover:shadow-lg hover:-translate-y-1 transition">
                 <h1 class="uppercase text-lg font-bold mb-4">
                   <xsl:value-of select="denominazione"/>
                 </h1>
@@ -55,6 +55,8 @@
                     </xsl:otherwise>
                   </xsl:choose>
                 </p>
+
+                <p title="appena aggiunto" class="uppercase p-4 absolute rounded-full -top-4 -right-4 font-semibold bg-gray-200 shadow-md"><xsl:value-of select="classe/nome/@nome" /></p>
               </div>
 
             </xsl:for-each>
