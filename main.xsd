@@ -19,6 +19,16 @@
               <xs:element name="sestuple" type="xs:integer"/>
               <xs:element name="totale_camere" type="xs:integer"/>
               <xs:element name="posti_letto" type="xs:integer"/>
+
+              <xs:element name="classe">
+                <xs:complexType>
+                  <xs:sequence>
+                    <xs:element name="nome" type="xs:string"/>
+                  </xs:sequence>
+                  <xs:attribute name="nome" type="xs:string" use="required"/>
+                </xs:complexType>
+              </xs:element>
+
             </xs:sequence>
             <xs:attribute name="classificazione" type="xs:string" use="required"/>
           </xs:complexType>
