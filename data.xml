@@ -16,6 +16,9 @@
     <sestuple>0</sestuple>
     <totale_camere>21</totale_camere>
     <posti_letto>50</posti_letto>
+    <classe nome="5ia">
+      <nome nome="5ia" />
+    </classe>
   </struttura>
 
   <struttura classificazione="2 Stelle">
@@ -31,6 +34,9 @@
     <sestuple>0</sestuple>
     <totale_camere>4</totale_camere>
     <posti_letto>5</posti_letto>
+    <classe>
+      <nome nome="5ia" />
+    </classe>
   </struttura>
 
   <struttura classificazione="4 Stelle">
@@ -46,6 +52,9 @@
     <sestuple>0</sestuple>
     <totale_camere>12</totale_camere>
     <posti_letto>25</posti_letto>
+    <classe nome="5ia">
+      <nome nome="5ia" />
+    </classe>
   </struttura>
 
   <struttura classificazione="1 Stella">
@@ -61,6 +70,9 @@
     <sestuple>0</sestuple>
     <totale_camere>8</totale_camere>
     <posti_letto>13</posti_letto>
+    <classe nome="5ia">
+      <nome nome="5ia" />
+    </classe>
   </struttura>
 
   <struttura classificazione="2 Stelle">
@@ -76,6 +88,9 @@
     <sestuple>0</sestuple>
     <totale_camere>8</totale_camere>
     <posti_letto>14</posti_letto>
+    <classe nome="5ia">
+      <nome nome="5ia" />
+    </classe>
   </struttura>
 
   <struttura classificazione="5 Stelle">
@@ -91,6 +106,9 @@
       <sestuple>0</sestuple>
       <totale_camere>12</totale_camere>
       <posti_letto>25</posti_letto>
+      <classe nome="5ia">
+      <nome nome="5ia" />
+    </classe>
   </struttura>
 
   <struttura classificazione="3 Stelle">
@@ -106,6 +124,9 @@
     <sestuple>0</sestuple>
     <totale_camere>8</totale_camere>
     <posti_letto>16</posti_letto>
+    <classe nome="5ia">
+      <nome nome="5ia" />
+    </classe>
   </struttura>
 
   <struttura classificazione="2 Stelle">
@@ -121,6 +142,9 @@
     <sestuple>0</sestuple>
     <totale_camere>8</totale_camere>
     <posti_letto>14</posti_letto>
+    <classe nome="5ia">
+      <nome nome="5ia" />
+    </classe>
   </struttura>
 
   <struttura classificazione="1 Stella">
@@ -136,6 +160,9 @@
     <sestuple>0</sestuple>
     <totale_camere>7</totale_camere>
     <posti_letto>11</posti_letto>
+    <classe nome="5ia">
+      <nome nome="5ia" />
+    </classe>
   </struttura>
 
   <struttura classificazione="4 Stelle">
@@ -151,6 +178,9 @@
     <sestuple>0</sestuple>
     <totale_camere>11</totale_camere>
     <posti_letto>14</posti_letto>
+    <classe nome="5ia">
+      <nome nome="5ia" />
+    </classe>
   </struttura>
 
   <struttura classificazione="2 Stelle">
@@ -166,6 +196,9 @@
     <sestuple>0</sestuple>
     <totale_camere>11</totale_camere>
     <posti_letto>20</posti_letto>
+    <classe nome="5ia">
+      <nome nome="5ia" />
+    </classe>
   </struttura>
 
   <struttura classificazione="3 Stelle">
@@ -181,6 +214,9 @@
     <sestuple>0</sestuple>
     <totale_camere>18</totale_camere>
     <posti_letto>46</posti_letto>
+    <classe nome="5ia">
+      <nome nome="5ia" />
+    </classe>
   </struttura>
 
 </strutture>
