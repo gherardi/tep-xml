@@ -1,5 +1,5 @@
 <!ELEMENT strutture (struttura+)>
-<!ELEMENT struttura (municipio, tipologia, denominazione, indirizzo, singole, doppie, triple, quadruple, quintuple, sestuple, totale_camere, posti_letto)>
+<!ELEMENT struttura (municipio, tipologia, denominazione, indirizzo, singole, doppie, triple, quadruple, quintuple, sestuple, totale_camere, posti_letto, classe)>
 <!ATTLIST struttura classificazione CDATA #REQUIRED>
 
 <!ELEMENT municipio (#PCDATA)>
@@ -14,3 +14,7 @@
 <!ELEMENT sestuple (#PCDATA)>
 <!ELEMENT totale_camere (#PCDATA)>
 <!ELEMENT posti_letto (#PCDATA)>
+
+<!ELEMENT classe (nome)>
+<!ATTLIST classe nome CDATA #REQUIRED>
+<!ELEMENT nome (#PCDATA)>
